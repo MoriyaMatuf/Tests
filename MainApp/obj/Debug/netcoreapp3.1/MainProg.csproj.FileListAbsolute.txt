@@ -1,0 +1,13 @@
+C:\Users\rasko\Desktop\ציונט\NUnitsample\MainApp\bin\Debug\netcoreapp3.1\MainProg.exe
+C:\Users\rasko\Desktop\ציונט\NUnitsample\MainApp\bin\Debug\netcoreapp3.1\MainProg.deps.json
+C:\Users\rasko\Desktop\ציונט\NUnitsample\MainApp\bin\Debug\netcoreapp3.1\MainProg.runtimeconfig.json
+C:\Users\rasko\Desktop\ציונט\NUnitsample\MainApp\bin\Debug\netcoreapp3.1\MainProg.runtimeconfig.dev.json
+C:\Users\rasko\Desktop\ציונט\NUnitsample\MainApp\bin\Debug\netcoreapp3.1\MainProg.dll
+C:\Users\rasko\Desktop\ציונט\NUnitsample\MainApp\bin\Debug\netcoreapp3.1\MainProg.pdb
+C:\Users\rasko\Desktop\ציונט\NUnitsample\MainApp\obj\Debug\netcoreapp3.1\MainProg.csprojAssemblyReference.cache
+C:\Users\rasko\Desktop\ציונט\NUnitsample\MainApp\obj\Debug\netcoreapp3.1\MainProg.csproj.CoreCompileInputs.cache
+C:\Users\rasko\Desktop\ציונט\NUnitsample\MainApp\obj\Debug\netcoreapp3.1\MainProg.AssemblyInfoInputs.cache
+C:\Users\rasko\Desktop\ציונט\NUnitsample\MainApp\obj\Debug\netcoreapp3.1\MainProg.AssemblyInfo.cs
+C:\Users\rasko\Desktop\ציונט\NUnitsample\MainApp\obj\Debug\netcoreapp3.1\MainProg.dll
+C:\Users\rasko\Desktop\ציונט\NUnitsample\MainApp\obj\Debug\netcoreapp3.1\MainProg.pdb
+C:\Users\rasko\Desktop\ציונט\NUnitsample\MainApp\obj\Debug\netcoreapp3.1\MainProg.genruntimeconfig.cache
